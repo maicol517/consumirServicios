@@ -1,0 +1,19 @@
+{
+    "users": [
+       { "id": 1, "name": "Maria Rojas", "username": "mrojas", "email": "maria@codigofacilito.com", "image": "https://i.bb.co/ZH7356D/cody.jpg"},
+       { "id": 2, "name": "Michael Rojas", "username": "mirojas", "email": "michael@codigofacilito.com", "image": "https://i.bb.co/ZH7356D/cody.jpg"},
+       { "id": 1, "name": "Fiona Lugo", "username": "flugo", "email": "fiona@codigofacilito.com", "image": "https://i.bb.co/ZH7356D/cody.jpg"}
+    
+    ],
+    "posts": [
+       { "id": 1, "title": "post 1", "body": "Pienso es importante ...", "userId": 1},
+       { "id": 2, "title": "post 2", "body": "Pensar es importante ...", "userId": 1},
+       { "id": 3, "title": "post 3", "body": "Pensando es importante ...", "userId": 2}
+    
+    ],
+    "comments": [
+       { "id": 1, "body": "post 1", "postId": 1},
+       { "id": 2, "body": "post 2", "postId": 1} 
+    ]
+
+}
